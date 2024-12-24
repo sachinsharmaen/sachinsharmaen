@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRjbW53MTZjM3o0MXdldmxscWNvZTFqN3N4cDR5dmpybWlodDJuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/65f22a0c8f916a7917facd60_Best%20Web%20Design%20and%20Development%20Solutions%207%2B%20Great%20Options.webp">
 <h3 align="center">A passionate Web developer from India.</h3>
